@@ -1,0 +1,23 @@
+{
+  "name": "hb-exercise-reto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "http-server -c-1 --silence"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/milenacard/hb-exercise-reto.git"
+  },
+  "author": "Milena Cardenas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/milenacard/hb-exercise-reto/issues"
+  },
+  "homepage": "https://github.com/milenacard/hb-exercise-reto#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "node-sass": "^4.7.2"
+  }
+}
