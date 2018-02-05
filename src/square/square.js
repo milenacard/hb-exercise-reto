@@ -13,7 +13,7 @@ export default class Square {
   movieSelected (event) {
     const clickedElement = event.currentTarget
     if (clickedElement.classList.contains('square__list-item')) {
-      clickedElement.classList.toggle('square__list-item--selected animated')
+      clickedElement.classList.toggle('square__list-item--selected')
     }
   }
 }

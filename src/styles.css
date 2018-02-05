@@ -32,11 +32,8 @@
 }
 
 .square__list-item--selected{
+    transition: background 2s;
     background-color: gold;
-}
-
-.animation{
-    transition: background-color 2s;
 }
 
 .controls{
